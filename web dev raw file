@@ -1,0 +1,9 @@
+hey this is my first ever html file even though i know more about html than you.:)
+
+the way a website works is:
+client(we)  >>>  browser   >>>  server
+
+for example i have to use youtube i will ask for youtube.com from my browser then the browser will get the youtube.com page from the server to get me youtube.com so if youtube.com exists it will open youtube.com in my tab if it doesn't exist it will show an error (error404)
+
+so as you move on the internet using ur browser the browser request for the content from the server and then compile the code into the page u see (you can see the process in the network tab in inspect if u right click on the webpage)
+
